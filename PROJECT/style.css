@@ -1,0 +1,49 @@
+body {
+  background-color: #e3e3e3;
+}
+
+.color-bg {
+  background-color: #f0f0f0;
+}
+
+.container-task {
+  height: 180px;
+  margin: 0 auto;
+  background-color: #f0f0f0;
+  border-radius: 15px;
+}
+
+.input-task {
+  width: 300px;
+  border: 0;
+  background-color: #f0f0f0;
+  border-bottom: 2px solid #f35f5d;
+}
+
+.input-task:focus {
+  outline: none;
+}
+
+.btn-tomato {
+  color: white;
+  border: 0;
+  background-color: #f35f5d;
+  border-radius: 20px;
+}
+
+.btn-tomato:hover {
+  color: #e5e7e9;
+  box-shadow: 0px 2px 25px 2px #f5b7b1;
+}
+
+.container-list {
+  height: 500px;
+  margin: 0 auto;
+  background-color: #f0f0f0;
+  border-radius: 15px;
+}
+
+.check {
+  border: 2px solid #f35f5d;
+}
+
