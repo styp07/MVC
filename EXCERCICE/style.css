@@ -1,0 +1,29 @@
+body {
+  background-color: #e3e3e3;
+}
+
+.color-bg {
+  background-color: #f0f0f0;
+}
+
+.task {
+  border: 0;
+  background-color: #f0f0f0;
+  border-bottom: 2px solid #f35f5d;
+}
+
+.task:focus {
+  outline: none;
+}
+
+.btn-add {
+  color: white;
+  border: 0;
+  border-radius: 20px;
+  background-color: #f35f5d;
+}
+
+.btn-add:active {
+  background-color: #f35f6d;
+  box-shadow: 0px 2px 25px 2px #f5b7b1;
+}
