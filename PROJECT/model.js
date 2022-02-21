@@ -1,3 +1,3 @@
-console.info("Carga modelo");
+console.log("Cargo model");
 
 items = [];
